@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+    color: #E0E0E0;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+h1, h2 {
+   text-align: center;
+   color: #00FFF7; 
+}
+
+img {
+    display: block;
+    padding: 20px;
+    border: 40px;
+    height: auto;
+    width: 400px;
+    margin: 0 auto;
+}
+
+div {
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    border: 10px solid black;
+}
+
+a{
+    color: #00FFF7;
+    padding: 10px 20px;
+}
+
+
+
+p{
+    display: block;
+    margin: auto;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+ul,
+ol{
+    padding:0 100px;
+}
+
+li{
+    padding: 5px;
+}
